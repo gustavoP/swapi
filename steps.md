@@ -14,5 +14,9 @@
 * One module was created to encapsulate the api root, because is easy to change.
 * One class for the 'people' api, to retrieve this data. From all people are verified their vehicles and checked the speed.
 
+## CLI
+* Searching for a library to improve the style. 
+* Using [PyInquirer](https://github.com/CITGuru/PyInquirer)
+
 ## ToDo
-* It's would be good if a cash system was implemented.
+* It's would be good if a cache system was implemented.
