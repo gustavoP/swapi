@@ -6,7 +6,7 @@ cryptography==2.7
 idna==2.8
 mkl-fft==1.0.12
 mkl-random==1.0.2
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 prompt-toolkit==1.0.14
 pycparser==2.19
